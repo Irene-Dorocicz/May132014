@@ -1,4 +1,3 @@
 May132014
 =========
-
-changing still again
+first attempts at using GitHub during Software carpentry
